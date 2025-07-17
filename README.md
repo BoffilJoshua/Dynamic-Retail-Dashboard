@@ -20,15 +20,23 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
 
 - 📈 **Sales & Profit Analysis**:
   - Category-wise Profit Breakdown
+    <img width="432" height="388" alt="image" src="https://github.com/user-attachments/assets/e552c11f-5912-40a8-ae5f-9fff68f5baf9" />
+
   - Segment-wise Sales Share
+    <img width="472" height="388" alt="image" src="https://github.com/user-attachments/assets/a38d0da9-7d77-41e0-9aa0-508450bf979c" />
+
   - Country-wise Sales Distribution
+  - <img width="621" height="406" alt="image" src="https://github.com/user-attachments/assets/d29ff4fc-b860-4135-9d46-9140ec92648d" />
+
   - Yearly Sales Trend
-<img width="517" height="406" alt="image" src="https://github.com/user-attachments/assets/17472bba-7206-4f5d-82e9-b4af367fdfa2" />
+    <img width="1001" height="85" alt="image" src="https://github.com/user-attachments/assets/d586d86b-d748-4a5b-9513-903aea80f29e" />
 
 
 - 🥇 **Top & Bottom Performers**:
   - Top 5 and Bottom 5 Sub-Categories by Sales
 <img width="1031" height="410" alt="image" src="https://github.com/user-attachments/assets/fd31e2f6-2552-4086-b7bc-b3d2e061ee33" />
+<img width="516" height="400" alt="image" src="https://github.com/user-attachments/assets/b5acd34f-f589-4e94-bbee-2cd8b66f3f8d" />
+
 
 ## 📌 Tools Used
 
@@ -37,6 +45,7 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
   - Slicers
   - Pivot Charts
   - Data Formatting & Conditional Formatting
+  - Data Cleaning
 
 ## 📈 Purpose
 
