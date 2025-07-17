@@ -35,7 +35,7 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
 - 🥇 **Top & Bottom Performers**:
   - Top 5 and Bottom 5 Sub-Categories by Sales
 <img width="1031" height="410" alt="image" src="https://github.com/user-attachments/assets/fd31e2f6-2552-4086-b7bc-b3d2e061ee33" />
-<img width="516" height="400" alt="image" src="https://github.com/user-attachments/assets/b5acd34f-f589-4e94-bbee-2cd8b66f3f8d" />
+
 
 
 ## 📌 Tools Used
