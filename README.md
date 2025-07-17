@@ -38,7 +38,7 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
 
 ## 📷 Dashboard Preview
 
--<img width="1171" height="656" alt="image" src="https://github.com/user-attachments/assets/5ad3e6d0-61e2-4263-93d3-984451e42e4b" />
+<img width="1171" height="656" alt="image" src="https://github.com/user-attachments/assets/5ad3e6d0-61e2-4263-93d3-984451e42e4b" />
 
 
 ## 📌 Tools Used
