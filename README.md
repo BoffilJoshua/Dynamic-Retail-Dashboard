@@ -29,7 +29,8 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
   - <img width="621" height="406" alt="image" src="https://github.com/user-attachments/assets/d29ff4fc-b860-4135-9d46-9140ec92648d" />
 
   - Yearly Sales Trend
-    <img width="1001" height="85" alt="image" src="https://github.com/user-attachments/assets/d586d86b-d748-4a5b-9513-903aea80f29e" />
+  - <img width="285" height="121" alt="image" src="https://github.com/user-attachments/assets/3f740d78-5653-423e-b568-e3fae790a430" />
+  - <img width="1001" height="85" alt="image" src="https://github.com/user-attachments/assets/d586d86b-d748-4a5b-9513-903aea80f29e" />
 
 
 - 🥇 **Top & Bottom Performers**:
