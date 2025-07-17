@@ -36,6 +36,9 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
   - Top 5 and Bottom 5 Sub-Categories by Sales
 <img width="1031" height="410" alt="image" src="https://github.com/user-attachments/assets/fd31e2f6-2552-4086-b7bc-b3d2e061ee33" />
 
+## 📷 Dashboard Preview
+
+-<img width="1171" height="656" alt="image" src="https://github.com/user-attachments/assets/5ad3e6d0-61e2-4263-93d3-984451e42e4b" />
 
 
 ## 📌 Tools Used
