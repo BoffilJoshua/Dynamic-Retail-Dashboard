@@ -15,15 +15,15 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
   - Quantity Sold
   - Number of Orders
   - Profit Margin
- <img width="973" height="100" alt="image" src="https://github.com/user-attachments/assets/f78fef72-50d1-468f-9318-d2b6773cd054" />
+  - <img width="973" height="100" alt="image" src="https://github.com/user-attachments/assets/f78fef72-50d1-468f-9318-d2b6773cd054" />
 
 
 - 📈 **Sales & Profit Analysis**:
   - Category-wise Profit Breakdown
-    <img width="432" height="388" alt="image" src="https://github.com/user-attachments/assets/e552c11f-5912-40a8-ae5f-9fff68f5baf9" />
+  - <img width="432" height="388" alt="image" src="https://github.com/user-attachments/assets/e552c11f-5912-40a8-ae5f-9fff68f5baf9" />
 
   - Segment-wise Sales Share
-    <img width="472" height="388" alt="image" src="https://github.com/user-attachments/assets/a38d0da9-7d77-41e0-9aa0-508450bf979c" />
+  - <img width="472" height="388" alt="image" src="https://github.com/user-attachments/assets/a38d0da9-7d77-41e0-9aa0-508450bf979c" />
 
   - Country-wise Sales Distribution
   - <img width="621" height="406" alt="image" src="https://github.com/user-attachments/assets/d29ff4fc-b860-4135-9d46-9140ec92648d" />
