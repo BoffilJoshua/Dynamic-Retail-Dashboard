@@ -55,4 +55,6 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
 
 This dashboard was created as part of an analytical project to demonstrate how structured, visual reporting can support business leaders in understanding performance metrics and market trends efficiently.
 
+## 👤 Author
+
 Boffil Joshua | Data Enthusiast
