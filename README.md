@@ -41,3 +41,5 @@ The dashboard is fully interactive and summarizes various KPIs and insights from
 ## 📈 Purpose
 
 This dashboard was created as part of an analytical project to demonstrate how structured, visual reporting can support business leaders in understanding performance metrics and market trends efficiently.
+
+Boffil Joshua | Data Enthusiast
